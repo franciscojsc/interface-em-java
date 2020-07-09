@@ -1,9 +1,8 @@
-## Desenvolvido por [Francisco Chaves](http://www.franciscochaves.com.br)
+# :tada: Interfaces em Java :tada:
 
-#  [Interfaces em Java](https://franciscojava.wordpress.com/2017/02/14/interfaces-em-java/)
+As interfaces em **Java** é uma forma de contrato, que a classe ao assinar, tem a responsabilidade de  implementar os seus métodos.
 
-As interfaces em Java é uma forma de contrato, que a classe ao assinar, tem a responsabilidade de  implementar os seus métodos.  
+![Diagrama](diagrama.png)
 
-
-Para conhecer mais sobre programação e tecnologia acesse: [http://www.franciscochaves.com.br](http://www.franciscochaves.com.br)
-
+## :memo: Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
